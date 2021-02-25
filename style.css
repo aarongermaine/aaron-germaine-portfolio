@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+/* font-family: 'DotGothic16', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300&display=swap');
+
+/* font-family: 'Frank Ruhl Libre', serif; */
+
+.navbar {
+    font-family: 'DotGothic16', sans-serif;
+    letter-spacing: 2px;
+    color: aqua;
+}
