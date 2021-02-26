@@ -9,11 +9,45 @@
 .navbar {
     font-family: 'DotGothic16', sans-serif;
     letter-spacing: 2px;
-    color: aqua;
+    font-weight: bolder;
 }
 
-div {
+.welcome {
 
-    background-color: aqua;
+    font-family: 'Frank Ruhl Libre', serif;
 
 }
+
+.about {
+
+    position: absolute;
+    top: 50px;
+    right: 50px;
+
+}
+
+.card {
+
+    margin-bottom: 10px;
+
+}
+
+img {
+
+    max-height: 50vh;
+    min-height: 50vh;
+
+}
+
+.footnav {
+
+    padding: 20vh;
+
+}
+
+h6 {
+
+    margin-left: 8px;
+
+}
+
