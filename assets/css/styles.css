@@ -7,14 +7,40 @@
 /* font-family: 'Frank Ruhl Libre', serif; */
 
 .navbar {
-    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Frank Ruhl Libre', serif;
     letter-spacing: 2px;
     font-weight: bolder;
+}
+
+body {
+
+    background: #076585;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+h3 {
+
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 1000;
+
+}
+
+h5 {
+
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 700;
+
 }
 
 .welcome {
 
     font-family: 'Frank Ruhl Libre', serif;
+    letter-spacing: 10px;
+    text-shadow: 6px 6px #c9c9c9;
 
 }
 
@@ -32,10 +58,12 @@
 
 }
 
-img {
+.port-img {
 
-    max-height: 50vh;
-    min-height: 50vh;
+    max-height: 25vh;
+    min-height: 25vh;
+    max-width: 25vh;
+    min-width: 25vh;
 
 }
 
@@ -48,6 +76,6 @@ img {
 h6 {
 
     margin-left: 8px;
-
+    letter-spacing: 5px;
 }
 
